@@ -1,4 +1,4 @@
-# MATLAB-with-PARALLEL
+# MATLAB-PARALLEL
 
 Usage:    p_time = assemble_K_parallel(nel)  
 
